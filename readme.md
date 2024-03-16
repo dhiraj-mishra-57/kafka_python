@@ -26,3 +26,14 @@
 * {"Name: "John", "Age":"31", "Gender":"Male"}
 * {"Name: "Emma", "Age":"27", "Gender":"Female"}
 * {"Name: "Ronald", "Age":"17", "Gender":"Male"}
+
+# Git
+
+## How to push to github
+- git init
+- git commit -m "first commit for python_kafka"
+- git add .
+- git commit -m "first commit for python_kafka"
+- git branch -M main
+- git remote add origin https://github.com/dhiraj-mishra-57/kafka_python.git
+- git push -u origin main
